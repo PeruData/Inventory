@@ -4,14 +4,14 @@
 <p>1. Enaho</p>
 <p>2. Clima</p>
 <p>3. MINEM - produccion minera georeferenciada</p>
+<p>3. ECE </p>
 
 
 ## In progress
-<p>1. ENUT</p>
-<p>2. Censo Escolar</p>
-<p>3. ECE</p>
-<p>4. Night Lights Mask</p>
-<p>5. SRTM Height/Gradient Masks</p>
+<p>1. Censo Escolar</p>
+<p>2. ECE</p>
+<p>3. Night Lights Mask</p>
+<p>4. SRTM Height/Gradient Masks</p>
 
 ## TO DO
 <p>1. ENDES</p>
