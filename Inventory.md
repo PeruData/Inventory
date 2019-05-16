@@ -15,6 +15,6 @@
 
 ## TO DO
 <p>1. Clean ENDES (Peru's DHS) </p>
-<p>2. Scrap State Budget Data (MEF)</p>
+<p>2. Scrape State Budget Data (MEF)</p>
 <p>3. Peru Hydrology Data (for Environmental Econ, available from Autoridad Nacional del Agua - ANA)</p>
  
